@@ -14,4 +14,4 @@ A binary file can then be written as normal with any serial port progammer.
 
 ## WIP
 
-The format of the header is a WIP, as is the firmware for this device. 
+The firmware of this device is still a WIP
